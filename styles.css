@@ -1,6 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@500&display=swap');
+
 body{
-     font-family: 'Permanent Marker', cursive;
+     font-family: 'Fira Mono', monospace;
      margin: 0px;
 }
 
@@ -9,7 +10,6 @@ body{
 }
 
 .navigation{
-    /* text-align: center; */
     width: 100%;
     padding: 2rem 2rem;
     margin: auto;
@@ -37,7 +37,7 @@ body{
    margin-right: 1rem;
    margin-top: 2rem;
    padding: 1rem 2rem;
-   font-family: 'Permanent Marker', cursive;
+   font-family: 'Fira Mono', monospace;
    font-weight: bold;
    font-size: 1rem;
    background-color: var(--primary-color);
